@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home3"
+    tools:context=".splash">
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="200dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="261dp"
+        android:background="#4D89A536"
+        android:text="Home"
+        android:textColor="#ffff"
+        android:textAllCaps="false"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="200dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginBottom="261dp"
+        android:background="#5289A536"
+        android:text="Nutrition"
+        android:textAllCaps="false"
+        android:textColor="#ffff"
+        android:textSize="36sp" />
+
+</RelativeLayout>
