@@ -1,3 +1,58 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Tasty</string>
+    <string name="asian_chicken_ind">1. ¼ cup sesame seeds\n2. 1 (16 ounce) package bow tie pasta\n3. ½ cup vegetable oil\n4. ⅓ cup light soy sauce\n5. ⅓ cup rice vinegar\n6. 1 teaspoon sesame oil
+\n7. 3 tablespoons white sugar
+\n8. ½ teaspoon ground ginger
+\n9. ¼ teaspoon ground black pepper
+\n10. 3 cups shredded, cooked chicken breast meat
+\n11. ⅓ cup chopped fresh cilantro
+\n12. ⅓ cup chopped green onion</string>
+    <string name="asian_chicken_pro">  Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside.
+
+ \n\n
+  Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl.
+
+ \n\n
+  In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well.
+
+ \n\n
+  Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.</string>
+    <string name="rice_pudding_ind">1. 3/4 cup uncooked white rice\n2. 2 cups milk, divided\n3. 1/3 cup white sugar\n5.1/4 teaspoon salt1 egg, beaten\n6. 2/3 cup golden raisins1 tablespoon butter\n7. 1/2 teaspoon vanilla extract</string>
+    <string name="rice_pudding_pro">
+        Bring 1 1/2 cups water to a boil in a saucepan; stir rice into boiling water. Reduce heat to low, cover, and simmer for 20 minutes.
+\n\nIn a clean saucepan, combine 1 1/2 cups cooked rice, 1 1/2 cups milk, sugar and salt. Cook over medium heat until thick and creamy, 15 to 20 minutes. Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla.
+    </string>
+    <string name="chicken_tanduri_ind">
+1. 1 c. Greek yogurt
+\n2. Juice of 1 lime
+\n3. 1 clove garlic, minced
+\n4. 1 tbsp. freshly grated ginger
+\n5. 1 tsp. garam masala
+\n6. 1/2 tsp. ground turmeric
+\n7. Kosher salt
+\8. Pinch of cayenne pepper
+\n9. 2 lb. chicken legs</string>
+    <string name="chicken_tanduri_pro">In a large bowl, whisk together yogurt, lime juice, garlic, ginger, garam masala, and turmeric and season with salt and cayenne. 
+\n\nAdd chicken and toss until fully coated. Let marinate in the fridge at least 2 hours. 
+\n\nWhen ready to bake, preheat oven to 400º and line a baking sheet with a wire rack. Bake chicken 20 minutes, then flip and bake 20 minutes more. Heat broiler and broil until skin is crispy, 2 minutes.</string>
+    <string name="chicken_curry_ind">1 pound boneless skinless chicken breast chopped into bite sized pieces
+1. 1 Tablespoon vegetable oil
+\n2. 1 Tablespoon minced garlic
+\n3. 1 small yellow or white onion chopped
+\n4. 2 Tablespoons yellow curry powder
+\n5. 1 Tablespoon Thai red curry paste
+\n6. 15- ounce coconut milk canned, full fat
+\n7. ½ cup water or chicken stock optional
+\n8. 1 Tablespoon brown sugar
+\n9. 1 teaspoon fish sauce
+\n10. 2 Tablespoons lime juice
+\n11. salt to taste
+\n12. handful fresh cilantro roughly chopped
+\n13. 4 cups cooked white rice</string>
+    <string name="chicken_curry_pro">Heat the oil in a large pot over medium low heat. Add the onions and minced garlic and cook for a few minutes until the onions are fragrant and softened.
+\n\nAdd the chicken and cook for 2-3 minutes, browning it a little. Add curry powder and paste; cook for 3-5 minutes.
+\n\nAdd the coconut milk, and let simmer for 15-20 minutes or until the chicken is fully cooked.
+\n\nAdd water or chicken stock depending on the consistency you want for the sauce, or let simmer longer to thicken if needed.
+\n\nStir in the brown sugar, fish sauce, and lime juice. Taste and salt if needed
+Top with fresh cilantro, serve over cooked rice.</string>
 </resources>

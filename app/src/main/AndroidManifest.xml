@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".nuts"></activity>
+        <activity android:name=".chickencurry"></activity>
+        <activity android:name=".chickentanduri" />
+        <activity android:name=".ricepudding" />
+        <activity android:name=".asianchicken" />
+        <activity android:name=".othercountry" />
+        <activity android:name=".japenis" />
+        <activity android:name=".asian" />
+        <activity android:name=".nuts" />
         <activity android:name=".fruits" />
         <activity android:name=".vegetable" />
         <activity android:name=".home" />

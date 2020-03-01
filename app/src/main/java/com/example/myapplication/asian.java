@@ -7,18 +7,20 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class home extends AppCompatActivity {
+public class asian extends AppCompatActivity {
     private Button button1;
     private Button button2;
     private Button button3;
+    private Button button4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
-        button1=(Button)findViewById(R.id.btn25);
-        button2=(Button)findViewById(R.id.btn26);
-        button3=(Button)findViewById(R.id.btn27);
+        setContentView(R.layout.activity_asian);
+        button1=(Button)findViewById(R.id.btn28);
+        button2=(Button)findViewById(R.id.btn29);
+        button3=(Button)findViewById(R.id.btn30);
+        button4=(Button)findViewById(R.id.btn31);
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -37,17 +39,26 @@ public class home extends AppCompatActivity {
                 moveToActivitythree();
             }
         });
+        button4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                moveToActivityfour();
+            }
+        });
     }
     public void moveToActivityOne(){
-        Intent intent1=new Intent(this,asian.class);
+        Intent intent1=new Intent(this,asianchicken.class);
         startActivity(intent1);
     }
     public void moveToActivityTow(){
-        Intent intent2=new Intent(this,japenis.class);
+        Intent intent2=new Intent(this,ricepudding.class);
         startActivity(intent2);
     }
     public void moveToActivitythree(){
-        Intent intent3=new Intent(this,othercountry.class);
+        Intent intent3=new Intent(this,chickentanduri.class);
         startActivity(intent3);
+    }
+    public void moveToActivityfour(){
+        Intent intent4=new Intent(this,chickencurry.class);
     }
 }
