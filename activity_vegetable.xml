@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".vegetable">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10sp"
+        android:layout_marginStart="10sp"
+        android:layout_marginEnd="10sp"
+        >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:background="@drawable/tomato"
+        android:text="Tomato"
+        android:textAllCaps="false"
+        android:layout_marginStart="80dp"
+        android:textColor="#ffff"
+        android:textStyle="bold"
+        android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/btn10"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="80dp"
+            android:background="@drawable/cupsicum"
+            android:text="Capsicum"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="80dp"
+            android:background="@drawable/carrot"
+            android:text="Carrot"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="80dp"
+            android:background="@drawable/spinach"
+            android:text="Spinach"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn13"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="80dp"
+            android:background="@drawable/cabbage"
+            android:text="Cabbage"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+        <Button
+            android:id="@+id/btn14"
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="80dp"
+            android:background="@drawable/cauliflower"
+            android:text="Cauliflower"
+            android:textAllCaps="false"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffff"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
