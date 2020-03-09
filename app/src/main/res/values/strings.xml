@@ -91,12 +91,34 @@ Pour the miso into the broth. Pour the dissolved miso into the simmering broth.
 \n\nAdd the tofu. Reduce the heat to medium-low and add the tofu to the miso. Simmer just enough to warm the tofu, 1 to 2 minutes. Do not boil the miso once the tofu has been added.
 \n\nAdd the scallions. Just before serving, scatter the scallions over the top of the soup.
 \n\nServe in individual bowls. Pour the miso into individual bowls and serve. Miso is best when served fresh. It will settle a bit as it sits in the broth; whisk briefly with chopsticks or a spoon to mix the soup again.</string>
-    <string name="mums_chicken_ind">1. 8 chicken drumsticks, skin on (the skin is important for flavour, and is so tasty to eat!)
-2. 1 cup water
-3. 1/2 cup balsamic vinegar
-4. 1/3 cup soy sauce
-5. 2 1/2 tablespoons sugar
-6. 1 garlic clove, peeled and bruised
+    <string name="mums_chicken_ind">1. 8 chicken drumsticks, skin on (the skin is important for flavour, and is so tasty to eat!)\n
+        2. 1 cup water\n
+3. 1/2 cup balsamic vinegar\n
+4. 1/3 cup soy sauce\n
+5. 2 1/2 tablespoons sugar\n
+6. 1 garlic clove, peeled and bruised\n
 7. 1 small hot chili pepper, slit open, seeds removed</string>
     <string name="mums_chicken_pro">The liquid will thicken to a glaze if you are patient. It just takes a bit of time. If you feel your chicken is cooked (and going to overcook) remove it before going on to reduce the liquid. Same thing, if you must use breast meat, remove it (so it doesn't dry out) and continue reducing the liquid . If you do it this way rather than thickening with cornstarch you will get a richer glaze and not need to add stock or broth instead of the water. It just takes patience. AND NOTE: A glaze is sticky and coats the meat, this is NOT a sauce</string>
+    <string name="chessy_chicken_ind">1. 2 tsp. oil\n
+ 2. 4 small boneless skinless chicken breasts (1 lb.)\n
+ 3. 2 cups frozen broccoli florets, thawed\n
+ 4. 1 can (10-3/4 oz.) condensed cream of chicken soup\n
+ 5. 1/4 lb.\n
+ 6. 2 cups hot cooked long-grain white rice</string>
+    <string name="chessy_chicken_pro">Heat oil in large nonstick skillet on medium-high heat. Add chicken; cook 6 to 7 min. on each side or until done (165ºF). Remove chicken from skillet; cover to keep warm.
+\n2. Add broccoli, soup and VELVEETA to skillet; mix well. Cook on medium heat 7 min. or until VELVEETA is melted and sauce is heated through, stirring frequently.
+\n3. Serve chicken and broccoli mixture over rice.</string>
+    <string name="potato_salad_ind">1. 5 potatoes3 eggs\n2. 1 cup chopped celery\n3. 1/2 cup chopped onion\n4. 1/2 cup sweet pickle relish\n5. 1/4 teaspoon garlic salt\n6. 1/4 teaspoon celery salt1 tablespoon prepared mustardground black pepper to taste\n7. 1/4 cup mayonnaise</string>
+    <string name="potato_salad_ind">Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, peel and chop.
+Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.
+In a large bowl, combine the potatoes, eggs, celery, onion, relish, garlic salt, celery salt, mustard, pepper and mayonnaise. Mix together well and refrigerate until chilled.</string>
+<string name="pizza_pasta_ind">1. 8 ounces rotini pasta\n2. 1 pound lean ground beef\n3. 1 small onion, diced1 (28 ounce) jar spaghetti sauce\n4. 4 ounces sliced pepperoni sausage\n5. 2 cups shredded mozzarella cheese</string>
+    <string name="pizza_pasta_pro">Preheat oven to 350 degrees F (175 degrees C).
+\n\nBring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
+\n\nIn a medium skillet over medium-high heat, cook beef with onion until beef is brown. Drain. Combine beef mixture with spaghetti sauce, pepperoni and cooked pasta and pour into a 9x13 inch baking dish. Top with mozzarella.
+Bake in preheated oven for 30 minutes, until cheese is melted and golden.</string>
+
+
 </resources>
+
+

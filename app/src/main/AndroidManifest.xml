@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".mumchicken"></activity>
+        <activity android:name=".chickensoup"></activity>
+        <activity android:name=".pizzapasta" />
+        <activity android:name=".potatosalad" />
+        <activity android:name=".chessychicken" />
+        <activity android:name=".mumchicken" />
         <activity android:name=".misosoup" />
         <activity android:name=".sushiroll" />
         <activity android:name=".friedrice" />

@@ -18,7 +18,8 @@
         android:text="Home"
         android:textColor="#ffff"
         android:textAllCaps="false"
-        android:textSize="36sp" />
+        android:textSize="36sp"
+        android:layout_marginLeft="110dp" />
 
     <Button
         android:id="@+id/btn3"
@@ -31,6 +32,7 @@
         android:text="Nutrition"
         android:textAllCaps="false"
         android:textColor="#ffff"
-        android:textSize="36sp" />
+        android:textSize="36sp"
+        android:layout_marginLeft="110dp" />
 
 </RelativeLayout>
