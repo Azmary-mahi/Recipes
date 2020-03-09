@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".asianchicken">
+    tools:context=".potatosalad">
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -24,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:background="#ADFFC400"
                 android:fontFamily="casual"
-                android:text="Asian chicken"
+                android:text="Potato Salad"
                 android:textAlignment="center"
                 android:textColor="#070707"
                 android:textSize="30dp"
@@ -47,7 +47,7 @@
                 android:layout_marginStart="12dp"
                 android:layout_marginTop="20dp"
                 android:fontFamily="casual"
-                android:text="@string/asian_chicken_ind"
+                android:text="@string/potato_salad_ind"
                 android:textColor="#000000"
                 android:textSize="25dp"
                 android:textStyle="bold"/>
@@ -65,7 +65,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="casual"
-                android:text="@string/asian_chicken_pro"
+                android:text="@string/potato_salad_pro"
                 android:layout_marginStart="12dp"
                 android:textColor="#070707"
                 android:layout_marginTop="20dp"
@@ -78,4 +78,6 @@
         </LinearLayout>
 
     </ScrollView>
+
+
 </RelativeLayout>
