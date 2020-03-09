@@ -19,8 +19,16 @@
             android:orientation="vertical">
 
 
-
-            <Button
+            <TextView
+                android:layout_width="392dp"
+                android:layout_height="wrap_content"
+                android:background="#6B147750"
+                android:fontFamily="cursive"
+                android:text="OTHER COUNTRY"
+                android:textAlignment="center"
+                android:textColor="#0A0A0A"
+                android:textSize="40dp" />
+               <Button
                 android:id="@+id/btn36"
                 android:layout_width="wrap_content"
                 android:layout_height="200dp"
