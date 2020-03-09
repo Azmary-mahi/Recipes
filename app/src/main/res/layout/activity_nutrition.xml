@@ -49,16 +49,17 @@
                 android:textStyle="bold"
                 android:textColor="#ffff"
                 android:textSize="36sp" />
+
             <Button
                 android:id="@+id/btn6"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:background="@drawable/nuts"
+
                 android:layout_marginTop="20dp"
-                android:text="Nuts And seeds"
-                android:textStyle="bold"
-                android:textColor="#ffff"
-                android:textSize="36sp" />
+                android:text="Calculate the BMI"
+                android:textColor="#1B1919"
+                android:textSize="36sp"
+                android:textStyle="bold" />
 
 
 

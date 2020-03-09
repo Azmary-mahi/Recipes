@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".chickensoup"></activity>
+        <activity android:name=".bmi"></activity>
+        <activity android:name=".chickensoup" />
         <activity android:name=".pizzapasta" />
         <activity android:name=".potatosalad" />
         <activity android:name=".chessychicken" />
