@@ -26,9 +26,9 @@
 1. 1 c. Greek yogurt
 \n2. Juice of 1 lime
 \n3. 1 clove garlic, minced
-\n4. 1 tbsp. freshly grated ginger
-\n5. 1 tsp. garam masala
-\n6. 1/2 tsp. ground turmeric
+\n4. 1 tablespoon, freshly grated ginger
+\n5. 1 tablespoon, garam masala
+\n6. 1/2 tablespoon, ground turmeric
 \n7. Kosher salt
 \8. Pinch of cayenne pepper
 \n9. 2 lb. chicken legs</string>
@@ -55,28 +55,24 @@
 \n\nAdd water or chicken stock depending on the consistency you want for the sauce, or let simmer longer to thicken if needed.
 \n\nStir in the brown sugar, fish sauce, and lime juice. Taste and salt if needed
 Top with fresh cilantro, serve over cooked rice.</string>
-    <string name="fried_rice_ind">1. 2 tbsp. extra-virgin olive oil
-\n2. 3 chicken breasts (about 1 1/4 lb.)
+    <string name="fried_rice_ind">1. 2 tablespoon. extra-virgin olive oil
+\n2. 3 chicken breasts (about 1 1/4 pound.)
 \n3. Kosher salt
 \n4. Freshly ground black pepper
-\n5. 2 tbsp. sesame oil, divided
+\n5. 2 tablespoon sesame oil, divided
 \n6. 1 medium onion, chopped
 \n7. 2 carrots, peeled and diced
 \n8. 3 cloves garlic, minced
-\n9. 1 tbsp. freshly minced ginger
+\n9. 1 tablespoon freshly minced ginger
 \n10. 4 c. cooked white rice (preferably leftover)
 \n11. 3/4 c. frozen peas
 \n12. 3 large eggs, beaten
-\n13. 3 tbsp. low-sodium soy sauce
+\n13. 3 tablespoon low-sodium soy sauce
 \n14. 2 green onions, thinly sliced</string>
     <string name="fried_rice_pro">In a medium skillet over medium heat, heat olive oil. Season chicken with salt and pepper on both sides, then add to skillet, and cook until golden and no longer pink, 8 minutes per side. Remove from skillet and let rest 5 minutes, then cut into bite-sized pieces.
 \n\nTo the same skillet, heat 1 tablespoon sesame oil. Add onion and carrots and cook until soft, 5 minutes, Add garlic and ginger and cook until fragrant, 1 minute more. Stir in rice and peas and cook until warmed through, 2 minutes.
 \n\nPush rice to one side of skillet and add remaining tablespoon sesame oil to other side. Add egg and stir until almost fully cooked, then fold eggs into rice. Add chicken back to skillet with soy sauce and green onions and stir to combine.</string>
-    <string name="sushi_roll_ind">1. 2/3 cup uncooked short-grain white rice\n2. 3 tablespoons rice vinegar\n3. 3 tablespoons white sugar1\n3. 1/2 teaspoons salt4 sheets nori seaweed sheets</string>
-    <string name="sushi_roll_pro">In a medium saucepan, bring 1 1/3 cups water to a boil. Add rice, and stir. Reduce heat, cover, and simmer for 20 minutes. In a small bowl, mix the rice vinegar, sugar ,and salt. Blend the mixture into the rice.
-\n\nPreheat oven to 300 degrees F (150 degrees C). On a medium baking sheet, heat nori in the preheated oven 1 to 2 minutes, until warm.
-\n\nCenter one sheet nori on a bamboo sushi mat. Wet your hands. Using your hands, spread a thin layer of rice on the sheet of nori, and press into a thin layer. Arrange 1/4 of the cucumber, ginger, avocado, and imitation crabmeat in a line down the center of the rice. Lift the end of the mat, and gently roll it over the ingredients, pressing gently. Roll it forward to make a complete roll. Repeat with remaining ingredients.
-\n\nCut each roll into 4 to 6 slices using a wet, sharp knife</string>
+
     <string name="miso_soup_ind">1. 2 cups water
 \n2. 1 (2-inch) piece kombu (dried black kelp)
 \n3. 1/2 cup loosely packed dried bonito flakes (katsuobushi), optional
@@ -100,10 +96,10 @@ Pour the miso into the broth. Pour the dissolved miso into the simmering broth.
 7. 1 small hot chili pepper, slit open, seeds removed</string>
     <string name="mums_chicken_pro">The liquid will thicken to a glaze if you are patient. It just takes a bit of time. If you feel your chicken is cooked (and going to overcook) remove it before going on to reduce the liquid. Same thing, if you must use breast meat, remove it </string>
     <string name="chessy_chicken_ind">1. 2 tsp. oil\n
- 2. 4 small boneless skinless chicken breasts (1 lb.)\n
+ 2. 4 small boneless skinless chicken breasts (1 pound.)\n
  3. 2 cups frozen broccoli florets, thawed\n
  4. 1 can (10-3/4 oz.) condensed cream of chicken soup\n
- 5. 1/4 lb.\n
+ 5. 1/4 pound.\n
  6. 2 cups hot cooked long-grain white rice</string>
     <string name="chessy_chicken_pro">Heat oil in large nonstick skillet on medium-high heat. Add chicken; cook 6 to 7 min. on each side or until done (165ºF). Remove chicken from skillet; cover to keep warm.
 \n2. Add broccoli, soup and VELVEETA to skillet; mix well. Cook on medium heat 7 min. or until VELVEETA is melted and sauce is heated through, stirring frequently.
@@ -117,8 +113,46 @@ In a large bowl, combine the potatoes, eggs, celery, onion, relish, garlic salt,
 \n\nBring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.
 \n\nIn a medium skillet over medium-high heat, cook beef with onion until beef is brown. Drain. Combine beef mixture with spaghetti sauce, pepperoni and cooked pasta and pour into a 9x13 inch baking dish. Top with mozzarella.
 Bake in preheated oven for 30 minutes, until cheese is melted and golden.</string>
+    <string name="sushi_roll_ind">1. 6 sheets sushi seaweed aka nori\n
+2. 1 batch prepared sushi rice\n
+3. 1/2 lb sushi-grade raw salmon or desired raw fish of choice\n
+4. 4 oz cream cheese sliced into strips\n
+5. 1 avocado sliced\n
+6. soy sauce for servin</string>
+    <string name="sushi_roll_pro">Place the seaweed on a bamboo mat, then cover the sheet of seaweed with an even layer of prepared sushi rice. Smooth gently with the rice paddle.
+\n\nLayer salmon, cream cheese, and avocado on the rice, and roll it up tightly. Slice with a sharp knife, and enjoy with soy sauce.</string>
 
+    <string name="apple">One medium apple has about:
 
+100 calories
+25 grams of carbohydrates
+4 grams of fiber
+19 grams of sugar
+A variety of strong antioxidants
+Health Benefits
+Apples can do a lot for you, thanks to plant chemicals called flavonoids. And they have pectin, a fiber that breaks down in your gut. If you take off the apple’s skin before eating it, you won’t get as much of the fiber or flavonoids.
+
+The fiber can slow digestion so you feel fuller after eating. This can keep you from overeating. Eating fiber-rich foods helps control symptoms and lessens the effects of acid reflux. An apple’s fiber can also help with diarrhea and constipation.
+
+Some studies show that plant chemicals and the fiber in an apple peel protect against blood vessel and heart damage. They also can help lower your cholesterol, and they might protect your cells’ DNA from something called oxidative damage, which is one of the things that can lead to cancer.
+
+Research shows the antioxidants in apples can slow the growth of cancer cells. And they can protect the cells in your pancreas, which can lower your chances of type 2 diabetes.
+
+Scientists also give apples credit for helping:
+
+Your lung strength
+Weight loss
+Your brain (easing symptoms of Alzheimer’s disease and age-related memory loss)
+Your immune system
+Your gut health
+You don’t need to be concerned about the sugar in apples. Although they have carbs that affect your blood sugar, these carbs are different from other sugars that strip away fiber that’s good for you.
+    </string>
+    <string name="mango">
+    </string>
+    <string name="mango">
+    </string>
+    <string name="mango">
+    </string>
 </resources>
 
 

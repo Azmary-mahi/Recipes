@@ -56,7 +56,7 @@
                 android:layout_height="200dp"
 
                 android:layout_marginTop="20dp"
-                android:text="Calculate the BMI"
+                android:background="@drawable/bmi"
                 android:textColor="#1B1919"
                 android:textSize="36sp"
                 android:textStyle="bold" />

@@ -47,7 +47,7 @@
                 android:textSize="30dp"
                 android:fontFamily="cursive"
                 android:textStyle="bold"
-                />
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:layout_width="392dp"
@@ -58,7 +58,7 @@
                 android:textColor="#0A0A0A"
                 android:textSize="20dp"
 
-                />
+                android:gravity="center_horizontal" />
 
 
             <Button
@@ -79,7 +79,7 @@
                 android:textSize="30dp"
                 android:fontFamily="cursive"
                 android:textStyle="bold"
-                />
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:layout_width="392dp"
@@ -109,7 +109,7 @@
                 android:textSize="30dp"
                 android:fontFamily="cursive"
                 android:textStyle="bold"
-                />
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:layout_width="392dp"
@@ -120,7 +120,7 @@
                 android:textColor="#0A0A0A"
                 android:textSize="20dp"
 
-                />
+                android:gravity="center_horizontal" />
             <Button
                 android:id="@+id/btn39"
                 android:layout_width="wrap_content"
@@ -139,7 +139,7 @@
                 android:textSize="30dp"
                 android:fontFamily="cursive"
                 android:textStyle="bold"
-                />
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:layout_width="392dp"
@@ -150,7 +150,7 @@
                 android:textColor="#0A0A0A"
                 android:textSize="20dp"
 
-                />
+                android:gravity="center_horizontal" />
 
 
 
